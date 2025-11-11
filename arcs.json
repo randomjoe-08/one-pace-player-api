@@ -1,0 +1,404 @@
+{
+  "arcs": [
+    {
+      "name": "Romance Dawn",
+      "sub": {
+        "480": "bhS9Ckwd",
+        "720": "HdPqPTPH",
+        "1080": "VmpS467P"
+      },
+      "dub": {
+        "480": "ffUWgo1D",
+        "720": "8tTqRmqz",
+        "1080": "pvG4Abkj"
+      },
+      "available_languages": ["sub", "dub"],
+      "available_qualities": [480, 720, 1080]
+    },
+    {
+      "name": "Orange Town",
+      "sub": {
+        "480": "bjaCwAUg",
+        "720": "mY9ec67L",
+        "1080": "sT25hhHR"
+      },
+      "dub": {
+        "480": "SMYKttMf",
+        "720": "15ZENNeo",
+        "1080": "iaNhR5m9"
+      },
+      "available_languages": ["sub", "dub"],
+      "available_qualities": [480, 720, 1080]
+    },
+    {
+      "name": "Syrup Village",
+      "sub": {
+        "480": "QqXe6SEY",
+        "720": "w1PoW7PJ",
+        "1080": "qWAH3hqU"
+      },
+      "dub": {
+        "480": "JVkHktvL",
+        "720": "YYUazeje",
+        "1080": "tMvvu6Yq"
+      },
+      "available_languages": ["sub", "dub"],
+      "available_qualities": [480, 720, 1080]
+    },
+    {
+      "name": "Gaimon",
+      "sub": {
+        "480": "mjFVQAjP",
+        "720": "iiTTYhCg",
+        "1080": "RnBjG5bE"
+      },
+      "dub": {
+        "480": "dPtUZAyk",
+        "720": "FV9EJ5ve",
+        "1080": "c9i2eVL5"
+      },
+      "available_languages": ["sub", "dub"],
+      "available_qualities": [480, 720, 1080]
+    },
+    {
+      "name": "Baratie",
+      "sub": {
+        "480": "Cjxhskb6",
+        "720": "dbL8ujD9",
+        "1080": "o4TEDwm6"
+      },
+      "dub": {
+        "480": "2f85nrQt",
+        "720": "3LcuJRuQ",
+        "1080": "ZwgqE6ar"
+      },
+      "available_languages": ["sub", "dub"],
+      "available_qualities": [480, 720, 1080]
+    },
+    {
+      "name": "Arlong Park",
+      "sub": {
+        "480": "nZLW8b72",
+        "720": "8HF9AiaK",
+        "1080": "L2yDubpH"
+      },
+      "dub": {
+        "480": "6azKaGxc",
+        "720": "7yQEMBFq",
+        "1080": "w2hAukxX"
+      },
+      "available_languages": ["sub", "dub"],
+      "available_qualities": [480, 720, 1080]
+    },
+    {
+      "name": "The Adventures of Buggy's Crew",
+      "sub": {
+        "720": "HnL9ip5k"
+      },
+      "dub": {
+        "720": "MbJLcYcA"
+      },
+      "available_languages": ["sub", "dub"],
+      "available_qualities": [720]
+    },
+    {
+      "name": "Loguetown",
+      "sub": {
+        "480": "Humwo7QP"
+      },
+      "dub": {
+        "480": "TBaw1Tp6"
+      },
+      "available_languages": ["sub", "dub"],
+      "available_qualities": [480]
+    },
+    {
+      "name": "Reverse Mountain",
+      "sub": {
+        "720": "1kVQHoeo"
+      },
+      "dub": {
+        "720": "s4DEnuS5"
+      },
+      "available_languages": ["sub", "dub"],
+      "available_qualities": [720]
+    },
+    {
+      "name": "Whisky Peak",
+      "sub": {
+        "480": "xMf7ZMzv"
+      },
+      "available_languages": ["sub"],
+      "available_qualities": [480]
+    },
+    {
+      "name": "The Trials of Koby-Meppo",
+      "sub": {
+        "720": "Sspa78Sd"
+      },
+      "dub": {
+        "720": "b9XwPSBA"
+      },
+      "available_languages": ["sub", "dub"],
+      "available_qualities": [720]
+    },
+    {
+      "name": "Little Garden",
+      "sub": {
+        "480": "QYHi9mzX",
+        "720": "uhd3P85A",
+        "1080": "7Ge8FAsV"
+      },
+      "dub": {
+        "480": "ABkpM5Nr",
+        "720": "G6P9DNFe",
+        "1080": "SrFc5Em4"
+      },
+      "available_languages": ["sub", "dub"],
+      "available_qualities": [480, 720, 1080]
+    },
+    {
+      "name": "Drum Island",
+      "sub": {
+        "720": "ayrMbpVW"
+      },
+      "dub": {
+        "720": "f4Kt9jzH"
+      },
+      "available_languages": ["sub", "dub"],
+      "available_qualities": [720]
+    },
+    {
+      "name": "Alabasta",
+      "sub": {
+        "480": "XxvpSBuJ",
+        "720": "apd1qjBN",
+        "1080": "VxHtEguD"
+      },
+      "dub": {
+        "480": "9Y5TEMdV",
+        "720": "9MzVKBPD",
+        "1080": "TYiY6GU4"
+      },
+      "available_languages": ["sub", "dub"],
+      "available_qualities": [480, 720, 1080]
+    },
+    {
+      "name": "Jaya",
+      "sub": {
+        "720": "6G1A3ufN"
+      },
+      "dub": {
+        "720": "mo4QoCFk"
+      },
+      "available_languages": ["sub", "dub"],
+      "available_qualities": [720]
+    },
+    {
+      "name": "Skypiea",
+      "sub": {
+        "480": "kLKJCU2q",
+        "720": "B3yZ2Yei",
+        "1080": "zS8jNCGf"
+      },
+      "dub": {
+        "480": "cqahHH4y",
+        "720": "AeNHWRGL",
+        "1080": "HsuguvD3"
+      },
+      "available_languages": ["sub", "dub"],
+      "available_qualities": [480, 720, 1080]
+    },
+    {
+      "name": "Long Ring Long Land",
+      "sub": {
+        "480": "v2VhAUMy",
+        "720": "RSp1aAPY",
+        "1080": "wdnDUcoh"
+      },
+      "dub": {
+        "480": "qe6NsBnd",
+        "720": "kTb436Vv",
+        "1080": "DK165Lfd"
+      },
+      "available_languages": ["sub", "dub"],
+      "available_qualities": [480, 720, 1080]
+    },
+    {
+      "name": "Water Seven",
+      "sub": {
+        "720": "WW5J2jX9"
+      },
+      "dub": {
+        "720": "59HCmx6N"
+      },
+      "available_languages": ["sub", "dub"],
+      "available_qualities": [720]
+    },
+    {
+      "name": "Enies Lobby",
+      "sub": {
+        "720": "auVnaWWb"
+      },
+      "dub": {
+        "720": "mUdZdtXz"
+      },
+      "available_languages": ["sub", "dub"],
+      "available_qualities": [720]
+    },
+    {
+      "name": "Post-Enies Lobby",
+      "sub": {
+        "720": "ybXdFXtN"
+      },
+      "available_languages": ["sub"],
+      "available_qualities": [720]
+    },
+    {
+      "name": "Thriller Bark",
+      "sub": {
+        "720": "HoiVPVa9"
+      },
+      "available_languages": ["sub"],
+      "available_qualities": [720]
+    },
+
+    {
+      "name": "Sabaody Archipelago",
+      "sub": {
+        "720": "Br89QGLT"
+      },
+      "available_languages": ["sub"],
+      "available_qualities": [720]
+    },
+    {
+      "name": "Amazon Lily",
+      "sub": {
+        "720": "eo9wEgfe"
+      },
+      "available_languages": ["sub"],
+      "available_qualities": [720]
+    },
+    {
+      "name": "Impel Down",
+      "sub": {
+        "720": "B7K3GLhN"
+      },
+      "available_languages": ["sub"],
+      "available_qualities": [720]
+    },
+    {
+      "name": "If You Could Go Anywhere... The Adventures of the Straw Hats",
+      "sub": {
+        "480": "5WSMGV5v",
+        "720": "Sa5AHh5z"
+      },
+      "dub": {
+        "480": "nmpifNTP",
+        "720": "enZf6R88"
+      },
+      "available_languages": ["sub", "dub"],
+      "available_qualities": [480, 720]
+    },
+    {
+      "name": "Marineford",
+      "sub": {
+        "720": "1EvkpXLD"
+      },
+      "available_languages": ["sub"],
+      "available_qualities": [720]
+    },
+    {
+      "name": "Post-War",
+      "sub": {
+        "720": "bN2sHsft"
+      },
+      "dub": {
+        "720": "WjxroZSq"
+      },
+      "available_languages": ["sub", "dub"],
+      "available_qualities": [720]
+    },
+    {
+      "name": "Return to Sabaody",
+      "sub": {
+        "720": "L43AyDMU"
+      },
+      "dub": {
+        "720": "JNBvnBsg"
+      },
+      "available_languages": ["sub", "dub"],
+      "available_qualities": [720]
+    },
+    {
+      "name": "Fishman Island",
+      "sub": {
+        "720": "gcFZLsPn"
+      },
+      "available_languages": ["sub"],
+      "available_qualities": [720]
+    },
+    {
+      "name": "Punk Hazard",
+      "sub": {
+        "720": "gcFZLsPn"
+      },
+      "available_languages": ["sub"],
+      "available_qualities": [720]
+    },
+    {
+      "name": "Dressrosa",
+      "sub": {
+        "720": "gcFZLsPn"
+      },
+      "available_languages": ["sub"],
+      "available_qualities": [720]
+    },
+    {
+      "name": "Zou",
+      "sub": {
+        "720": "gcFZLsPn"
+      },
+      "available_languages": ["sub"],
+      "available_qualities": [720]
+    },
+    {
+      "name": "Whole Cake Island",
+      "sub": {
+        "720": "o8PiHdb8"
+      },
+      "available_languages": ["sub"],
+      "available_qualities": [720]
+    },
+    {
+      "name": "Wano [Extended]",
+      "sub": {
+        "480": "o8PiHdb8",
+        "720": "dxS5pzF3",
+        "1080": "d7qi5the"
+      },
+      "dub": {
+        "480": "mtAAKA4Q",
+        "720": "6YpD1oDY",
+        "1080": "AgcNBUKh"
+      },
+      "available_languages": ["sub", "dub"],
+      "available_qualities": [480, 720, 1080]
+    },
+    {
+      "name": "Egghead [Extended]",
+      "sub": {
+        "480": "At3KpFF2",
+        "720": "fSWVaiWV",
+        "1080": "v9RkPU61"
+      },
+      "dub": {
+        "480": "CLnfKrsG",
+        "720": "MTiCn7cK",
+        "1080": "7eicwoJt"
+      },
+      "available_languages": ["sub", "dub"],
+      "available_qualities": [480, 720, 1080]
+    }
+  ]
+}
