@@ -238,13 +238,17 @@
     {
       "name": "Enies Lobby",
       "sub": {
-        "720": "auVnaWWb"
+        "480": "YyhtpKMU",
+        "720": "auVnaWWb",
+        "1080": "wgwp6Az1"
       },
       "dub": {
-        "720": "mUdZdtXz"
+        "480": "SSxshReW",
+        "720": "mUdZdtXz",
+        "1080": "q7WjpWcW"
       },
       "available_languages": ["sub", "dub"],
-      "available_qualities": [720]
+      "available_qualities": [480, 720, 1080]
     },
     {
       "name": "Post-Enies Lobby",
@@ -369,6 +373,21 @@
       },
       "available_languages": ["sub"],
       "available_qualities": [720]
+    },   
+    {
+      "name": "Reverie",
+      "sub": {
+        "480": "a91XPU2A",
+        "720": "twsSB1xc",
+        "1080": "KVo2feRk"
+      },
+      "dub": {
+        "480": "WU4pgbvE",
+        "720": "zrfn5Vor",
+        "1080": "HgqaUnRr"
+      },
+      "available_languages": ["sub", "dub"],
+      "available_qualities": [480, 720, 1080]
     },
     {
       "name": "Wano [Extended]",
